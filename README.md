@@ -2,8 +2,6 @@
 
 **Standard Operating Procedure for conducting network configuration security assessments**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Authors
 
 | Name | Role | Organization |
